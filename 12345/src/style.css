@@ -1,0 +1,15 @@
+.owl-carousel .item {
+    height: 44px;
+    width:96px;
+    background: #4DC7A0;
+}
+
+.customNextBtn, .customPreviousBtn{
+
+    cursor: pointer;
+}
+.rot-next{ -webkit-transform:rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    transform: rotate(180deg);}

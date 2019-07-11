@@ -1,0 +1,25 @@
+
+
+#video-container {
+    position: absolute;
+    width:540px; height:304px;
+    margin-left: 600px;
+    box-shadow: 0.25em 0.25em 0.25em rgba( 0, 0, 0, 0.3 );
+ }
+
+#video-container video {
+    width: 100%;
+ }
+
+#video-container img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: auto;
+    cursor: pointer;
+ }
+.hide {
+    display: none;
+ }
+

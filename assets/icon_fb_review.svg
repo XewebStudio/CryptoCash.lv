@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="29.781" height="29.782" viewBox="0 0 29.781 29.782">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #225c9f;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="icon_fb_review" transform="translate(-815.219 -4988.334)">
+    <rect id="Rectangle_1381" data-name="Rectangle 1381" class="cls-1" width="29.782" height="29.782" rx="14.891" transform="translate(815.219 4988.334)"/>
+    <g id="Group_91" data-name="Group 91" transform="translate(827.11 4997.062)">
+      <g id="facebook_1_" data-name="facebook(1)" transform="translate(0 0)">
+        <path id="Path_75" data-name="Path 75" class="cls-2" d="M16.835,12.659H15.173v6.087h-2.52V12.659H11.459V10.52h1.2V9.136A2.361,2.361,0,0,1,15.2,6.6l1.862.008V8.68H15.706a.513.513,0,0,0-.534.583v1.26h1.881Z" transform="translate(-11.459 -6.596)"/>
+      </g>
+    </g>
+  </g>
+</svg>

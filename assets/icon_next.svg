@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20.828" height="36.001" viewBox="0 0 20.828 36.001">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #dbdbdb;
+        stroke-linecap: round;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <path id="icon_next" class="cls-1" d="M-12591-16128l-16,16,16,16" transform="translate(-12589 -16093.999) rotate(180)"/>
+</svg>
